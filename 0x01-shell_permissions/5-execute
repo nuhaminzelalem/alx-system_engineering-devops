@@ -1,2 +1,2 @@
-#!/bin/bash
-sudo chmod -rwxr--r-- hello
+#!/bin/bash 
+chmod -rwxr--r-- hello
