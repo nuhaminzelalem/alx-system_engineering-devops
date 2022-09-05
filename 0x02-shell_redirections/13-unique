@@ -1,2 +1,2 @@
 #!/bin/bash
-fmt | uniq | lpr
+fmt | uniq | lpr ls tl | head -n 
